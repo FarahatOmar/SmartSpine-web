@@ -33,7 +33,7 @@ const IndexPage = () => {
           Take control of your posture with our solution.
         </p>
         <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-          <a href="/sign-up">Get started</a>
+          <Link href="/sign-up">Get started</Link>
         </button>
       </section>
 
